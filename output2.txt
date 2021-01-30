@@ -1,0 +1,27 @@
+Please enter the text file you would like to use.
+For my data, enter myData.txt.
+For Dr. Finkel's data, enter finkelData.txt.
+Choice: myData.txt
+
+Thank you for choosing. To continue, press enter.
+
+Individual 1 has parent family 3 and is married in family 1.
+Individual 2 has parent family 2 and is married in family 1.
+Family 1 has husband 1, wife 2, and children 5.
+Individual 3 has parent family 4 and is married in family 2.
+Individual 4 has parent family 3 and is married in family 2.
+Individual 5 has parent family 1 and is married in family 0.
+Individual 6 has parent family 2 and is married in family 0.
+Family 2 has husband 3, wife 4, and children 2 6 8 9.
+Individual 7 has parent family 4 and is married in family 3.
+Individual 8 has parent family 2 and is married in family 3.
+Family 3 has husband 7, wife 8, and children 1 4 10.
+Family 2 points to child individual 9 but there is no backpointer.
+Family 3 points to child individual 10 but there is no backpointer.
+Individual 3 points to parent family 4 but there is no backpointer.
+Individual 7 points to parent family 4 but there is no backpointer.
+Individual 9 has parent family 2 and is married in family 4.
+Individual 10 has parent family 3 and is married in family 4.
+Family 4 has husband 9, wife 10, and children 3 7.
+The data are consistent.
+Individual 3 family 4 individual 7.
